@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/JUSTIN/Desktop/AHS Robotics/2017-18-19/Programming/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/icon_robotcontroller.png",
+        "source": "/Users/JUSTIN/.android/build-cache/0f337220d9ccf8d13dae033c22a0133e06b8dd01/output/res/drawable/icon_robotcontroller.png"
+    },
+    {
+        "merged": "/Users/JUSTIN/Desktop/AHS Robotics/2017-18-19/Programming/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/button_shape.xml",
+        "source": "/Users/JUSTIN/.android/build-cache/eaee22af0d97920ca77baba0b18fa8069dedb8b9/output/res/drawable/button_shape.xml"
+    },
+    {
+        "merged": "/Users/JUSTIN/Desktop/AHS Robotics/2017-18-19/Programming/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/black_border.xml",
+        "source": "/Users/JUSTIN/.android/build-cache/2f9379c0aa74a259da217173907c2cab674d9537/output/res/drawable/black_border.xml"
+    },
+    {
+        "merged": "/Users/JUSTIN/Desktop/AHS Robotics/2017-18-19/Programming/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/feedback_shape_orange.xml",
+        "source": "/Users/JUSTIN/.android/build-cache/9b6b060d3debb67cb18808231c92a31ad3e231ee/output/res/drawable/feedback_shape_orange.xml"
+    },
+    {
+        "merged": "/Users/JUSTIN/Desktop/AHS Robotics/2017-18-19/Programming/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/icon_menu.png",
+        "source": "/Users/JUSTIN/.android/build-cache/0f337220d9ccf8d13dae033c22a0133e06b8dd01/output/res/drawable/icon_menu.png"
+    }
+]

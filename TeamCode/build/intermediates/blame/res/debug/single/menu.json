@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/JUSTIN/Desktop/AHS Robotics/2017-18-19/Programming/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/menu/ftc_robot_controller.xml",
+        "source": "/Users/JUSTIN/Desktop/AHS Robotics/2017-18-19/Programming/ftc_app-master/FtcRobotController/build/intermediates/bundles/default/res/menu/ftc_robot_controller.xml"
+    },
+    {
+        "merged": "/Users/JUSTIN/Desktop/AHS Robotics/2017-18-19/Programming/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/JUSTIN/.android/build-cache/0f337220d9ccf8d13dae033c22a0133e06b8dd01/output/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/JUSTIN/Desktop/AHS Robotics/2017-18-19/Programming/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/menu/menu_server.xml",
+        "source": "/Users/JUSTIN/.android/build-cache/2f9379c0aa74a259da217173907c2cab674d9537/output/res/menu/menu_server.xml"
+    }
+]

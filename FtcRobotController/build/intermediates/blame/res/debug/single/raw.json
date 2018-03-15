@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/JUSTIN/Desktop/AHS Robotics/2017-18-19/Programming/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/texture_vertex_shader.glsl",
+        "source": "/Users/JUSTIN/.android/build-cache/9b6b060d3debb67cb18808231c92a31ad3e231ee/output/res/raw/texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/JUSTIN/Desktop/AHS Robotics/2017-18-19/Programming/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/errormessage.wav",
+        "source": "/Users/JUSTIN/.android/build-cache/eaee22af0d97920ca77baba0b18fa8069dedb8b9/output/res/raw/errormessage.wav"
+    },
+    {
+        "merged": "/Users/JUSTIN/Desktop/AHS Robotics/2017-18-19/Programming/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/cube_mesh_vertex_shader.glsl",
+        "source": "/Users/JUSTIN/.android/build-cache/9b6b060d3debb67cb18808231c92a31ad3e231ee/output/res/raw/cube_mesh_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/JUSTIN/Desktop/AHS Robotics/2017-18-19/Programming/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/cube_mesh_fragment_shader.glsl",
+        "source": "/Users/JUSTIN/.android/build-cache/9b6b060d3debb67cb18808231c92a31ad3e231ee/output/res/raw/cube_mesh_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/JUSTIN/Desktop/AHS Robotics/2017-18-19/Programming/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/warningmessage.wav",
+        "source": "/Users/JUSTIN/.android/build-cache/eaee22af0d97920ca77baba0b18fa8069dedb8b9/output/res/raw/warningmessage.wav"
+    },
+    {
+        "merged": "/Users/JUSTIN/Desktop/AHS Robotics/2017-18-19/Programming/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/texture_fragment_shader.glsl",
+        "source": "/Users/JUSTIN/.android/build-cache/9b6b060d3debb67cb18808231c92a31ad3e231ee/output/res/raw/texture_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/JUSTIN/Desktop/AHS Robotics/2017-18-19/Programming/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/color_fragment_shader.glsl",
+        "source": "/Users/JUSTIN/.android/build-cache/9b6b060d3debb67cb18808231c92a31ad3e231ee/output/res/raw/color_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/JUSTIN/Desktop/AHS Robotics/2017-18-19/Programming/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/nxtstartupsound.wav",
+        "source": "/Users/JUSTIN/.android/build-cache/eaee22af0d97920ca77baba0b18fa8069dedb8b9/output/res/raw/nxtstartupsound.wav"
+    },
+    {
+        "merged": "/Users/JUSTIN/Desktop/AHS Robotics/2017-18-19/Programming/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/chimeconnect.wav",
+        "source": "/Users/JUSTIN/.android/build-cache/eaee22af0d97920ca77baba0b18fa8069dedb8b9/output/res/raw/chimeconnect.wav"
+    },
+    {
+        "merged": "/Users/JUSTIN/Desktop/AHS Robotics/2017-18-19/Programming/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/chimedisconnect.wav",
+        "source": "/Users/JUSTIN/.android/build-cache/eaee22af0d97920ca77baba0b18fa8069dedb8b9/output/res/raw/chimedisconnect.wav"
+    },
+    {
+        "merged": "/Users/JUSTIN/Desktop/AHS Robotics/2017-18-19/Programming/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/simple_vertex_shader.glsl",
+        "source": "/Users/JUSTIN/.android/build-cache/9b6b060d3debb67cb18808231c92a31ad3e231ee/output/res/raw/simple_vertex_shader.glsl"
+    }
+]
