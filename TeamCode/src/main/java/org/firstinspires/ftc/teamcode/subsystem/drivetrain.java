@@ -19,7 +19,6 @@ public class drivetrain {
         this.left_top = left_Top;
     }
     public void mechanumDrive(double movX, double movY, double rotation) {
-
         //assign motor powers their inputs based on position on the robot
         double forwardLeftPower = Range.clip((-1*movX - movY), -1, 1) - rotation;
         double forwardRightPower = -1*(Range.clip((-1*movX + movY), -1, 1) - rotation);

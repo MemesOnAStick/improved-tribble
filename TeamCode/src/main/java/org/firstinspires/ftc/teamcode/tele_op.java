@@ -4,10 +4,13 @@ import android.media.MediaPlayer;
 
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
+import com.qualcomm.robotcore.hardware.DcMotor;
+import com.qualcomm.robotcore.hardware.DcMotorSimple;
 
 import org.firstinspires.ftc.teamcode.subsystem.drivetrain;
 
 import static android.R.attr.name;
+import static android.R.attr.right;
 
 /**
  * Created by JOSEPH STALIN on 3/19/18.
@@ -38,6 +41,12 @@ public class tele_op extends OpMode{
         else {
             robot.mechanumDrive(-Math.pow(gamepad1.left_stick_x, 9), -Math.pow(gamepad1.left_stick_y, 9), Math.pow(gamepad1.right_stick_x, 9));
         }
+        if (gamepad1.dpad_down) {
+            DJ_Stalin_YEET = MediaPlayer.create(hardwareMap.appContext,R.raw.AJP);
+            DJ_Stalin_YEET.start();
+        }
+        DcMotor rightmotor;
+
 
 
 
