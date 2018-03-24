@@ -8,6 +8,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.DcMotorSimple;
 
 import org.firstinspires.ftc.teamcode.subsystem.drivetrain;
+import org.firstinspires.ftc.teamcode.subsystem.dumpTruck;
 
 import static android.R.attr.name;
 import static android.R.attr.right;
@@ -18,6 +19,7 @@ import static android.R.attr.right;
 @TeleOp(name= "KV-1_TELEOP", group= "communism")
 public class tele_op extends OpMode{
     public drivetrain robot;
+    public dumpTruck dumpTruck;
     public static final int TICKS_PER_ROTATION = 1440;
     public static final int WHEEL_DIAMETER     = 4   ;
     public double           rotations                ;
@@ -28,10 +30,10 @@ public class tele_op extends OpMode{
     @Override
     public void init() {
          robot = new drivetrain(hardwareMap.dcMotor.get("right_top"), hardwareMap.dcMotor.get("right_bottom"), hardwareMap.dcMotor.get("left_bottom"), hardwareMap.dcMotor.get("left_top"));
+        dumpTruck = new dumpTruck(hardwareMap.dcMotor.get("squishyRight"), hardwareMap.dcMotor.get("squishyLeft"), hardwareMap.dcMotor.get("DUMPER"));
     }
     @Override
     public void start() {
-
     }
     @Override
     public void loop() {
@@ -45,10 +47,12 @@ public class tele_op extends OpMode{
             DJ_Stalin_YEET = MediaPlayer.create(hardwareMap.appContext,R.raw.AJP);
             DJ_Stalin_YEET.start();
         }
+        if (gamepad1.left_bumper) {
+            dumpTruck.a_la_basura();
+        }
+        if (gamepad2.right_bumper) {
+            dumpTruck.devolver_a_la_basura();
+        }
         DcMotor rightmotor;
-
-
-
-
     }
 }
